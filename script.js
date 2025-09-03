@@ -97,7 +97,7 @@ document.addEventListener("DOMContentLoaded", () => {
         phone: data.telefone || "Não informado",
         company: data.empresa || "Não informado",
         message: data.mensagem,
-        to_email: "bbrasil.bruno007@gmail.com",
+        to_email: "andre.wtfconsult@gmail.com",
       })
       .then(() => {
         alert("Mensagem enviada com sucesso! Entraremos em contato em breve.")
